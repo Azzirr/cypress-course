@@ -1,4 +1,4 @@
-## This project is my attempt to learn testing in Cypress purposes. I was teaching myself using this course: https://www.youtube.com/watch?v=u8vMu7viCm8&ab_channel=freeCodeCamp.org
+## This project is my attempt to learn testing in Cypress. I was teaching myself using this course: https://www.youtube.com/watch?v=u8vMu7viCm8&ab_channel=freeCodeCamp.org
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
